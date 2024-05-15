@@ -12,7 +12,7 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/afero v1.1.2
 	github.com/spf13/cobra v1.1.1
-	go.mongodb.org/mongo-driver v1.4.3 // indirect
-	golang.org/x/sys v0.0.0-20201110211018-35f3e6cf4a65 // indirect
+	go.mongodb.org/mongo-driver v1.5.1 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 )
